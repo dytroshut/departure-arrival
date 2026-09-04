@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="189.794mm" height="57.15mm"
+ viewBox="0 0 538 162"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>MATLAB, The MathWorks, Inc. Version 25.2.0.3042426 R2025b Update 1</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0,0 L718,0 L718,217 L0,217 L0,0"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="0.666667" stroke-linecap="butt" stroke-linejoin="round" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="122.545,174 167.091,74 " />
+<polyline fill="none" vector-effect="none" points="122.545,174 167.091,90.6667 " />
+<polyline fill="none" vector-effect="none" points="122.545,174 167.091,157.333 " />
+<polyline fill="none" vector-effect="none" points="122.545,157.333 167.091,174 " />
+<polyline fill="none" vector-effect="none" points="122.545,157.333 167.091,107.333 " />
+<polyline fill="none" vector-effect="none" points="122.545,157.333 167.091,90.6667 " />
+<polyline fill="none" vector-effect="none" points="122.545,140.667 167.091,107.333 " />
+<polyline fill="none" vector-effect="none" points="122.545,140.667 167.091,74 " />
+<polyline fill="none" vector-effect="none" points="122.545,140.667 167.091,124 " />
+<polyline fill="none" vector-effect="none" points="122.545,124 167.091,107.333 " />
+<polyline fill="none" vector-effect="none" points="122.545,124 167.091,74 " />
+<polyline fill="none" vector-effect="none" points="122.545,124 167.091,157.333 " />
+<polyline fill="none" vector-effect="none" points="122.545,107.333 167.091,57.3333 " />
+<polyline fill="none" vector-effect="none" points="122.545,107.333 167.091,140.667 " />
+<polyline fill="none" vector-effect="none" points="122.545,107.333 167.091,157.333 " />
+<polyline fill="none" vector-effect="none" points="122.545,90.6667 167.091,140.667 " />
+<polyline fill="none" vector-effect="none" points="122.545,90.6667 167.091,124 " />
+<polyline fill="none" vector-effect="none" points="122.545,90.6667 167.091,24 " />
+<polyline fill="none" vector-effect="none" points="122.545,74 167.091,90.6667 " />
+<polyline fill="none" vector-effect="none" points="122.545,74 167.091,74 " />
+<polyline fill="none" vector-effect="none" points="122.545,74 167.091,157.333 " />
+<polyline fill="none" vector-effect="none" points="122.545,57.3333 167.091,174 " />
+<polyline fill="none" vector-effect="none" points="122.545,57.3333 167.091,90.6667 " />
+<polyline fill="none" vector-effect="none" points="122.545,57.3333 167.091,140.667 " />
+<polyline fill="none" vector-effect="none" points="122.545,40.6667 167.091,140.667 " />
+<polyline fill="none" vector-effect="none" points="122.545,40.6667 167.091,40.6667 " />
+<polyline fill="none" vector-effect="none" points="122.545,40.6667 167.091,24 " />
+<polyline fill="none" vector-effect="none" points="122.545,24 167.091,107.333 " />
+<polyline fill="none" vector-effect="none" points="122.545,24 167.091,140.667 " />
+<polyline fill="none" vector-effect="none" points="122.545,24 167.091,124 " />
+<polyline fill="none" vector-effect="none" points="167.091,174 211.636,74 " />
+<polyline fill="none" vector-effect="none" points="167.091,174 211.636,57.3333 " />
+<polyline fill="none" vector-effect="none" points="167.091,174 211.636,157.333 " />
+<polyline fill="none" vector-effect="none" points="167.091,157.333 211.636,40.6667 " />
+<polyline fill="none" vector-effect="none" points="167.091,157.333 211.636,157.333 " />
+<polyline fill="none" vector-effect="none" points="167.091,157.333 211.636,174 " />
+<polyline fill="none" vector-effect="none" points="167.091,140.667 211.636,40.6667 " />
+<polyline fill="none" vector-effect="none" points="167.091,140.667 211.636,107.333 " />
+<polyline fill="none" vector-effect="none" points="167.091,140.667 211.636,174 " />
+<polyline fill="none" vector-effect="none" points="167.091,124 211.636,57.3333 " />
+<polyline fill="none" vector-effect="none" points="167.091,124 211.636,74 " />
+<polyline fill="none" vector-effect="none" points="167.091,124 211.636,157.333 " />
+<polyline fill="none" vector-effect="none" points="167.091,107.333 211.636,157.333 " />
+<polyline fill="none" vector-effect="none" points="167.091,107.333 211.636,24 " />
+<polyline fill="none" vector-effect="none" points="167.091,107.333 211.636,90.6667 " />
+<polyline fill="none" vector-effect="none" points="167.091,90.6667 211.636,174 " />
+<polyline fill="none" vector-effect="none" points="167.091,90.6667 211.636,24 " />
+<polyline fill="none" vector-effect="none" points="167.091,90.6667 211.636,90.6667 " />
+<polyline fill="none" vector-effect="none" points="167.091,74 211.636,140.667 " />
+<polyline fill="none" vector-effect="none" points="167.091,74 211.636,124 " />
+<polyline fill="none" vector-effect="none" points="167.091,74 211.636,157.333 " />
+<polyline fill="none" vector-effect="none" points="167.091,57.3333 211.636,57.3333 " />
+<polyline fill="none" vector-effect="none" points="167.091,57.3333 211.636,157.333 " />
+<polyline fill="none" vector-effect="none" points="167.091,57.3333 211.636,40.6667 " />
+<polyline fill="none" vector-effect="none" points="167.091,40.6667 211.636,140.667 " />
+<polyline fill="none" vector-effect="none" points="167.091,40.6667 211.636,174 " />
+<polyline fill="none" vector-effect="none" points="167.091,40.6667 211.636,24 " />
+<polyline fill="none" vector-effect="none" points="167.091,24 211.636,74 " />
+<polyline fill="none" vector-effect="none" points="167.091,24 211.636,24 " />
+<polyline fill="none" vector-effect="none" points="167.091,24 211.636,140.667 " />
+<polyline fill="none" vector-effect="none" points="211.636,174 256.182,107.333 " />
+<polyline fill="none" vector-effect="none" points="211.636,174 256.182,74 " />
+<polyline fill="none" vector-effect="none" points="211.636,174 256.182,124 " />
+<polyline fill="none" vector-effect="none" points="211.636,157.333 256.182,57.3333 " />
+<polyline fill="none" vector-effect="none" points="211.636,157.333 256.182,107.333 " />
+<polyline fill="none" vector-effect="none" points="211.636,157.333 256.182,124 " />
+<polyline fill="none" vector-effect="none" points="211.636,140.667 256.182,57.3333 " />
+<polyline fill="none" vector-effect="none" points="211.636,140.667 256.182,174 " />
+<polyline fill="none" vector-effect="none" points="211.636,140.667 256.182,24 " />
+<polyline fill="none" vector-effect="none" points="211.636,124 256.182,40.6667 " />
+<polyline fill="none" vector-effect="none" points="211.636,124 256.182,157.333 " />
+<polyline fill="none" vector-effect="none" points="211.636,124 256.182,57.3333 " />
+<polyline fill="none" vector-effect="none" points="211.636,107.333 256.182,90.6667 " />
+<polyline fill="none" vector-effect="none" points="211.636,107.333 256.182,107.333 " />
+<polyline fill="none" vector-effect="none" points="211.636,107.333 256.182,174 " />
+<polyline fill="none" vector-effect="none" points="211.636,90.6667 256.182,24 " />
+<polyline fill="none" vector-effect="none" points="211.636,90.6667 256.182,107.333 " />
+<polyline fill="none" vector-effect="none" points="211.636,90.6667 256.182,90.6667 " />
+<polyline fill="none" vector-effect="none" points="211.636,74 256.182,140.667 " />
+<polyline fill="none" vector-effect="none" points="211.636,74 256.182,74 " />
+<polyline fill="none" vector-effect="none" points="211.636,74 256.182,124 " />
+<polyline fill="none" vector-effect="none" points="211.636,57.3333 256.182,90.6667 " />
+<polyline fill="none" vector-effect="none" points="211.636,57.3333 256.182,124 " />
+<polyline fill="none" vector-effect="none" points="211.636,57.3333 256.182,140.667 " />
+<polyline fill="none" vector-effect="none" points="211.636,40.6667 256.182,57.3333 " />
+<polyline fill="none" vector-effect="none" points="211.636,40.6667 256.182,174 " />
+<polyline fill="none" vector-effect="none" points="211.636,40.6667 256.182,107.333 " />
+<polyline fill="none" vector-effect="none" points="211.636,24 256.182,24 " />
+<polyline fill="none" vector-effect="none" points="211.636,24 256.182,140.667 " />
+<polyline fill="none" vector-effect="none" points="211.636,24 256.182,90.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,174 300.727,157.333 " />
+<polyline fill="none" vector-effect="none" points="256.182,174 300.727,40.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,174 300.727,57.3333 " />
+<polyline fill="none" vector-effect="none" points="256.182,157.333 300.727,90.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,157.333 300.727,124 " />
+<polyline fill="none" vector-effect="none" points="256.182,157.333 300.727,74 " />
+<polyline fill="none" vector-effect="none" points="256.182,140.667 300.727,90.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,140.667 300.727,107.333 " />
+<polyline fill="none" vector-effect="none" points="256.182,140.667 300.727,40.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,124 300.727,74 " />
+<polyline fill="none" vector-effect="none" points="256.182,124 300.727,107.333 " />
+<polyline fill="none" vector-effect="none" points="256.182,124 300.727,57.3333 " />
+<polyline fill="none" vector-effect="none" points="256.182,107.333 300.727,107.333 " />
+<polyline fill="none" vector-effect="none" points="256.182,107.333 300.727,124 " />
+<polyline fill="none" vector-effect="none" points="256.182,107.333 300.727,140.667 " />
+<polyline fill="none" vector-effect="none" points="256.182,90.6667 300.727,40.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,90.6667 300.727,140.667 " />
+<polyline fill="none" vector-effect="none" points="256.182,90.6667 300.727,90.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,74 300.727,157.333 " />
+<polyline fill="none" vector-effect="none" points="256.182,74 300.727,40.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,74 300.727,90.6667 " />
+<polyline fill="none" vector-effect="none" points="256.182,57.3333 300.727,140.667 " />
+<polyline fill="none" vector-effect="none" points="256.182,57.3333 300.727,24 " />
+<polyline fill="none" vector-effect="none" points="256.182,57.3333 300.727,174 " />
+<polyline fill="none" vector-effect="none" points="256.182,40.6667 300.727,107.333 " />
+<polyline fill="none" vector-effect="none" points="256.182,40.6667 300.727,24 " />
+<polyline fill="none" vector-effect="none" points="256.182,40.6667 300.727,57.3333 " />
+<polyline fill="none" vector-effect="none" points="256.182,24 300.727,57.3333 " />
+<polyline fill="none" vector-effect="none" points="256.182,24 300.727,174 " />
+<polyline fill="none" vector-effect="none" points="256.182,24 300.727,140.667 " />
+<polyline fill="none" vector-effect="none" points="300.727,174 345.273,40.6667 " />
+<polyline fill="none" vector-effect="none" points="300.727,174 345.273,90.6667 " />
+<polyline fill="none" vector-effect="none" points="300.727,174 345.273,24 " />
+<polyline fill="none" vector-effect="none" points="300.727,157.333 345.273,157.333 " />
+<polyline fill="none" vector-effect="none" points="300.727,157.333 345.273,40.6667 " />
+<polyline fill="none" vector-effect="none" points="300.727,157.333 345.273,57.3333 " />
+<polyline fill="none" vector-effect="none" points="300.727,140.667 345.273,107.333 " />
+<polyline fill="none" vector-effect="none" points="300.727,140.667 345.273,90.6667 " />
+<polyline fill="none" vector-effect="none" points="300.727,140.667 345.273,24 " />
+<polyline fill="none" vector-effect="none" points="300.727,124 345.273,140.667 " />
+<polyline fill="none" vector-effect="none" points="300.727,124 345.273,74 " />
+<polyline fill="none" vector-effect="none" points="300.727,124 345.273,90.6667 " />
+<polyline fill="none" vector-effect="none" points="300.727,107.333 345.273,40.6667 " />
+<polyline fill="none" vector-effect="none" points="300.727,107.333 345.273,74 " />
+<polyline fill="none" vector-effect="none" points="300.727,107.333 345.273,107.333 " />
+<polyline fill="none" vector-effect="none" points="300.727,90.6667 345.273,124 " />
+<polyline fill="none" vector-effect="none" points="300.727,90.6667 345.273,24 " />
+<polyline fill="none" vector-effect="none" points="300.727,90.6667 345.273,57.3333 " />
+<polyline fill="none" vector-effect="none" points="300.727,74 345.273,124 " />
+<polyline fill="none" vector-effect="none" points="300.727,74 345.273,24 " />
+<polyline fill="none" vector-effect="none" points="300.727,74 345.273,74 " />
+<polyline fill="none" vector-effect="none" points="300.727,57.3333 345.273,107.333 " />
+<polyline fill="none" vector-effect="none" points="300.727,57.3333 345.273,57.3333 " />
+<polyline fill="none" vector-effect="none" points="300.727,57.3333 345.273,157.333 " />
+<polyline fill="none" vector-effect="none" points="300.727,40.6667 345.273,157.333 " />
+<polyline fill="none" vector-effect="none" points="300.727,40.6667 345.273,40.6667 " />
+<polyline fill="none" vector-effect="none" points="300.727,40.6667 345.273,174 " />
+<polyline fill="none" vector-effect="none" points="300.727,24 345.273,40.6667 " />
+<polyline fill="none" vector-effect="none" points="300.727,24 345.273,174 " />
+<polyline fill="none" vector-effect="none" points="300.727,24 345.273,90.6667 " />
+<polyline fill="none" vector-effect="none" points="345.273,174 389.818,174 " />
+<polyline fill="none" vector-effect="none" points="345.273,174 389.818,124 " />
+<polyline fill="none" vector-effect="none" points="345.273,174 389.818,40.6667 " />
+<polyline fill="none" vector-effect="none" points="345.273,157.333 389.818,40.6667 " />
+<polyline fill="none" vector-effect="none" points="345.273,157.333 389.818,157.333 " />
+<polyline fill="none" vector-effect="none" points="345.273,157.333 389.818,74 " />
+<polyline fill="none" vector-effect="none" points="345.273,140.667 389.818,40.6667 " />
+<polyline fill="none" vector-effect="none" points="345.273,140.667 389.818,74 " />
+<polyline fill="none" vector-effect="none" points="345.273,140.667 389.818,174 " />
+<polyline fill="none" vector-effect="none" points="345.273,124 389.818,57.3333 " />
+<polyline fill="none" vector-effect="none" points="345.273,124 389.818,124 " />
+<polyline fill="none" vector-effect="none" points="345.273,124 389.818,174 " />
+<polyline fill="none" vector-effect="none" points="345.273,107.333 389.818,40.6667 " />
+<polyline fill="none" vector-effect="none" points="345.273,107.333 389.818,57.3333 " />
+<polyline fill="none" vector-effect="none" points="345.273,107.333 389.818,90.6667 " />
+<polyline fill="none" vector-effect="none" points="345.273,90.6667 389.818,124 " />
+<polyline fill="none" vector-effect="none" points="345.273,90.6667 389.818,157.333 " />
+<polyline fill="none" vector-effect="none" points="345.273,90.6667 389.818,140.667 " />
+<polyline fill="none" vector-effect="none" points="345.273,74 389.818,74 " />
+<polyline fill="none" vector-effect="none" points="345.273,74 389.818,40.6667 " />
+<polyline fill="none" vector-effect="none" points="345.273,74 389.818,107.333 " />
+<polyline fill="none" vector-effect="none" points="345.273,57.3333 389.818,57.3333 " />
+<polyline fill="none" vector-effect="none" points="345.273,57.3333 389.818,140.667 " />
+<polyline fill="none" vector-effect="none" points="345.273,57.3333 389.818,174 " />
+<polyline fill="none" vector-effect="none" points="345.273,40.6667 389.818,40.6667 " />
+<polyline fill="none" vector-effect="none" points="345.273,40.6667 389.818,107.333 " />
+<polyline fill="none" vector-effect="none" points="345.273,40.6667 389.818,157.333 " />
+<polyline fill="none" vector-effect="none" points="345.273,24 389.818,174 " />
+<polyline fill="none" vector-effect="none" points="345.273,24 389.818,24 " />
+<polyline fill="none" vector-effect="none" points="345.273,24 389.818,157.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,174 434.364,157.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,174 434.364,24 " />
+<polyline fill="none" vector-effect="none" points="389.818,174 434.364,124 " />
+<polyline fill="none" vector-effect="none" points="389.818,157.333 434.364,57.3333 " />
+<polyline fill="none" vector-effect="none" points="389.818,157.333 434.364,90.6667 " />
+<polyline fill="none" vector-effect="none" points="389.818,157.333 434.364,74 " />
+<polyline fill="none" vector-effect="none" points="389.818,140.667 434.364,40.6667 " />
+<polyline fill="none" vector-effect="none" points="389.818,140.667 434.364,174 " />
+<polyline fill="none" vector-effect="none" points="389.818,140.667 434.364,157.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,124 434.364,124 " />
+<polyline fill="none" vector-effect="none" points="389.818,124 434.364,107.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,124 434.364,40.6667 " />
+<polyline fill="none" vector-effect="none" points="389.818,107.333 434.364,107.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,107.333 434.364,124 " />
+<polyline fill="none" vector-effect="none" points="389.818,107.333 434.364,40.6667 " />
+<polyline fill="none" vector-effect="none" points="389.818,90.6667 434.364,74 " />
+<polyline fill="none" vector-effect="none" points="389.818,90.6667 434.364,57.3333 " />
+<polyline fill="none" vector-effect="none" points="389.818,90.6667 434.364,40.6667 " />
+<polyline fill="none" vector-effect="none" points="389.818,74 434.364,107.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,74 434.364,57.3333 " />
+<polyline fill="none" vector-effect="none" points="389.818,74 434.364,40.6667 " />
+<polyline fill="none" vector-effect="none" points="389.818,57.3333 434.364,74 " />
+<polyline fill="none" vector-effect="none" points="389.818,57.3333 434.364,124 " />
+<polyline fill="none" vector-effect="none" points="389.818,57.3333 434.364,157.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,40.6667 434.364,107.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,40.6667 434.364,24 " />
+<polyline fill="none" vector-effect="none" points="389.818,40.6667 434.364,90.6667 " />
+<polyline fill="none" vector-effect="none" points="389.818,24 434.364,107.333 " />
+<polyline fill="none" vector-effect="none" points="389.818,24 434.364,140.667 " />
+<polyline fill="none" vector-effect="none" points="389.818,24 434.364,40.6667 " />
+<polyline fill="none" vector-effect="none" points="434.364,174 478.909,107.333 " />
+<polyline fill="none" vector-effect="none" points="434.364,174 478.909,90.6667 " />
+<polyline fill="none" vector-effect="none" points="434.364,174 478.909,124 " />
+<polyline fill="none" vector-effect="none" points="434.364,157.333 478.909,124 " />
+<polyline fill="none" vector-effect="none" points="434.364,157.333 478.909,157.333 " />
+<polyline fill="none" vector-effect="none" points="434.364,157.333 478.909,107.333 " />
+<polyline fill="none" vector-effect="none" points="434.364,140.667 478.909,140.667 " />
+<polyline fill="none" vector-effect="none" points="434.364,140.667 478.909,124 " />
+<polyline fill="none" vector-effect="none" points="434.364,140.667 478.909,107.333 " />
+<polyline fill="none" vector-effect="none" points="434.364,124 478.909,140.667 " />
+<polyline fill="none" vector-effect="none" points="434.364,124 478.909,74 " />
+<polyline fill="none" vector-effect="none" points="434.364,124 478.909,124 " />
+<polyline fill="none" vector-effect="none" points="434.364,107.333 478.909,24 " />
+<polyline fill="none" vector-effect="none" points="434.364,107.333 478.909,40.6667 " />
+<polyline fill="none" vector-effect="none" points="434.364,107.333 478.909,124 " />
+<polyline fill="none" vector-effect="none" points="434.364,90.6667 478.909,124 " />
+<polyline fill="none" vector-effect="none" points="434.364,90.6667 478.909,74 " />
+<polyline fill="none" vector-effect="none" points="434.364,90.6667 478.909,90.6667 " />
+<polyline fill="none" vector-effect="none" points="434.364,74 478.909,157.333 " />
+<polyline fill="none" vector-effect="none" points="434.364,74 478.909,140.667 " />
+<polyline fill="none" vector-effect="none" points="434.364,74 478.909,174 " />
+<polyline fill="none" vector-effect="none" points="434.364,57.3333 478.909,40.6667 " />
+<polyline fill="none" vector-effect="none" points="434.364,57.3333 478.909,124 " />
+<polyline fill="none" vector-effect="none" points="434.364,57.3333 478.909,24 " />
+<polyline fill="none" vector-effect="none" points="434.364,40.6667 478.909,174 " />
+<polyline fill="none" vector-effect="none" points="434.364,40.6667 478.909,157.333 " />
+<polyline fill="none" vector-effect="none" points="434.364,40.6667 478.909,140.667 " />
+<polyline fill="none" vector-effect="none" points="434.364,24 478.909,157.333 " />
+<polyline fill="none" vector-effect="none" points="434.364,24 478.909,24 " />
+<polyline fill="none" vector-effect="none" points="434.364,24 478.909,140.667 " />
+<polyline fill="none" vector-effect="none" points="478.909,174 523.455,140.667 " />
+<polyline fill="none" vector-effect="none" points="478.909,174 523.455,107.333 " />
+<polyline fill="none" vector-effect="none" points="478.909,174 523.455,57.3333 " />
+<polyline fill="none" vector-effect="none" points="478.909,157.333 523.455,174 " />
+<polyline fill="none" vector-effect="none" points="478.909,157.333 523.455,40.6667 " />
+<polyline fill="none" vector-effect="none" points="478.909,157.333 523.455,57.3333 " />
+<polyline fill="none" vector-effect="none" points="478.909,140.667 523.455,57.3333 " />
+<polyline fill="none" vector-effect="none" points="478.909,140.667 523.455,174 " />
+<polyline fill="none" vector-effect="none" points="478.909,140.667 523.455,124 " />
+<polyline fill="none" vector-effect="none" points="478.909,124 523.455,74 " />
+<polyline fill="none" vector-effect="none" points="478.909,124 523.455,40.6667 " />
+<polyline fill="none" vector-effect="none" points="478.909,124 523.455,24 " />
+<polyline fill="none" vector-effect="none" points="478.909,107.333 523.455,140.667 " />
+<polyline fill="none" vector-effect="none" points="478.909,107.333 523.455,57.3333 " />
+<polyline fill="none" vector-effect="none" points="478.909,107.333 523.455,24 " />
+<polyline fill="none" vector-effect="none" points="478.909,90.6667 523.455,40.6667 " />
+<polyline fill="none" vector-effect="none" points="478.909,90.6667 523.455,57.3333 " />
+<polyline fill="none" vector-effect="none" points="478.909,90.6667 523.455,140.667 " />
+<polyline fill="none" vector-effect="none" points="478.909,74 523.455,40.6667 " />
+<polyline fill="none" vector-effect="none" points="478.909,74 523.455,24 " />
+<polyline fill="none" vector-effect="none" points="478.909,74 523.455,157.333 " />
+<polyline fill="none" vector-effect="none" points="478.909,57.3333 523.455,24 " />
+<polyline fill="none" vector-effect="none" points="478.909,57.3333 523.455,74 " />
+<polyline fill="none" vector-effect="none" points="478.909,57.3333 523.455,40.6667 " />
+<polyline fill="none" vector-effect="none" points="478.909,40.6667 523.455,174 " />
+<polyline fill="none" vector-effect="none" points="478.909,40.6667 523.455,24 " />
+<polyline fill="none" vector-effect="none" points="478.909,40.6667 523.455,90.6667 " />
+<polyline fill="none" vector-effect="none" points="478.909,24 523.455,40.6667 " />
+<polyline fill="none" vector-effect="none" points="478.909,24 523.455,124 " />
+<polyline fill="none" vector-effect="none" points="478.909,24 523.455,57.3333 " />
+<polyline fill="none" vector-effect="none" points="523.455,174 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,157.333 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,140.667 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,124 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,107.333 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,90.6667 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,74 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,57.3333 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,40.6667 568,99 " />
+<polyline fill="none" vector-effect="none" points="523.455,24 568,99 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,174 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,157.333 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,140.667 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,124 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,107.333 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,90.6667 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,74 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,57.3333 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,40.6667 " />
+<polyline fill="none" vector-effect="none" points="78,99 122.545,24 " />
+</g>
+
+<g fill="#3d26a8" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="122.545" cy="174" r="3.52767"/>
+<circle cx="122.545" cy="157.333" r="3.52767"/>
+<circle cx="122.545" cy="140.667" r="3.52767"/>
+<circle cx="122.545" cy="124" r="3.52767"/>
+<circle cx="122.545" cy="107.333" r="3.52767"/>
+<circle cx="122.545" cy="90.6667" r="3.52767"/>
+<circle cx="122.545" cy="74" r="3.52767"/>
+<circle cx="122.545" cy="57.3333" r="3.52767"/>
+<circle cx="122.545" cy="40.6667" r="3.52767"/>
+<circle cx="122.545" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#4746eb" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="167.091" cy="174" r="3.52767"/>
+<circle cx="167.091" cy="157.333" r="3.52767"/>
+<circle cx="167.091" cy="140.667" r="3.52767"/>
+<circle cx="167.091" cy="124" r="3.52767"/>
+<circle cx="167.091" cy="107.333" r="3.52767"/>
+<circle cx="167.091" cy="90.6667" r="3.52767"/>
+<circle cx="167.091" cy="74" r="3.52767"/>
+<circle cx="167.091" cy="57.3333" r="3.52767"/>
+<circle cx="167.091" cy="40.6667" r="3.52767"/>
+<circle cx="167.091" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#3e6ffe" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="211.636" cy="174" r="3.52767"/>
+<circle cx="211.636" cy="157.333" r="3.52767"/>
+<circle cx="211.636" cy="140.667" r="3.52767"/>
+<circle cx="211.636" cy="124" r="3.52767"/>
+<circle cx="211.636" cy="107.333" r="3.52767"/>
+<circle cx="211.636" cy="90.6667" r="3.52767"/>
+<circle cx="211.636" cy="74" r="3.52767"/>
+<circle cx="211.636" cy="57.3333" r="3.52767"/>
+<circle cx="211.636" cy="40.6667" r="3.52767"/>
+<circle cx="211.636" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#2796eb" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="256.182" cy="174" r="3.52767"/>
+<circle cx="256.182" cy="157.333" r="3.52767"/>
+<circle cx="256.182" cy="140.667" r="3.52767"/>
+<circle cx="256.182" cy="124" r="3.52767"/>
+<circle cx="256.182" cy="107.333" r="3.52767"/>
+<circle cx="256.182" cy="90.6667" r="3.52767"/>
+<circle cx="256.182" cy="74" r="3.52767"/>
+<circle cx="256.182" cy="57.3333" r="3.52767"/>
+<circle cx="256.182" cy="40.6667" r="3.52767"/>
+<circle cx="256.182" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#07b4d0" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="300.727" cy="174" r="3.52767"/>
+<circle cx="300.727" cy="157.333" r="3.52767"/>
+<circle cx="300.727" cy="140.667" r="3.52767"/>
+<circle cx="300.727" cy="124" r="3.52767"/>
+<circle cx="300.727" cy="107.333" r="3.52767"/>
+<circle cx="300.727" cy="90.6667" r="3.52767"/>
+<circle cx="300.727" cy="74" r="3.52767"/>
+<circle cx="300.727" cy="57.3333" r="3.52767"/>
+<circle cx="300.727" cy="40.6667" r="3.52767"/>
+<circle cx="300.727" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#31c59f" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="345.273" cy="174" r="3.52767"/>
+<circle cx="345.273" cy="157.333" r="3.52767"/>
+<circle cx="345.273" cy="140.667" r="3.52767"/>
+<circle cx="345.273" cy="124" r="3.52767"/>
+<circle cx="345.273" cy="107.333" r="3.52767"/>
+<circle cx="345.273" cy="90.6667" r="3.52767"/>
+<circle cx="345.273" cy="74" r="3.52767"/>
+<circle cx="345.273" cy="57.3333" r="3.52767"/>
+<circle cx="345.273" cy="40.6667" r="3.52767"/>
+<circle cx="345.273" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#80cb58" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="389.818" cy="174" r="3.52767"/>
+<circle cx="389.818" cy="157.333" r="3.52767"/>
+<circle cx="389.818" cy="140.667" r="3.52767"/>
+<circle cx="389.818" cy="124" r="3.52767"/>
+<circle cx="389.818" cy="107.333" r="3.52767"/>
+<circle cx="389.818" cy="90.6667" r="3.52767"/>
+<circle cx="389.818" cy="74" r="3.52767"/>
+<circle cx="389.818" cy="57.3333" r="3.52767"/>
+<circle cx="389.818" cy="40.6667" r="3.52767"/>
+<circle cx="389.818" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#dcbc28" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="434.364" cy="174" r="3.52767"/>
+<circle cx="434.364" cy="157.333" r="3.52767"/>
+<circle cx="434.364" cy="140.667" r="3.52767"/>
+<circle cx="434.364" cy="124" r="3.52767"/>
+<circle cx="434.364" cy="107.333" r="3.52767"/>
+<circle cx="434.364" cy="90.6667" r="3.52767"/>
+<circle cx="434.364" cy="74" r="3.52767"/>
+<circle cx="434.364" cy="57.3333" r="3.52767"/>
+<circle cx="434.364" cy="40.6667" r="3.52767"/>
+<circle cx="434.364" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#fccf30" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="478.909" cy="174" r="3.52767"/>
+<circle cx="478.909" cy="157.333" r="3.52767"/>
+<circle cx="478.909" cy="140.667" r="3.52767"/>
+<circle cx="478.909" cy="124" r="3.52767"/>
+<circle cx="478.909" cy="107.333" r="3.52767"/>
+<circle cx="478.909" cy="90.6667" r="3.52767"/>
+<circle cx="478.909" cy="74" r="3.52767"/>
+<circle cx="478.909" cy="57.3333" r="3.52767"/>
+<circle cx="478.909" cy="40.6667" r="3.52767"/>
+<circle cx="478.909" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#f9fa14" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="523.455" cy="174" r="3.52767"/>
+<circle cx="523.455" cy="157.333" r="3.52767"/>
+<circle cx="523.455" cy="140.667" r="3.52767"/>
+<circle cx="523.455" cy="124" r="3.52767"/>
+<circle cx="523.455" cy="107.333" r="3.52767"/>
+<circle cx="523.455" cy="90.6667" r="3.52767"/>
+<circle cx="523.455" cy="74" r="3.52767"/>
+<circle cx="523.455" cy="57.3333" r="3.52767"/>
+<circle cx="523.455" cy="40.6667" r="3.52767"/>
+<circle cx="523.455" cy="24" r="3.52767"/>
+</g>
+
+<g fill="#0f47eb" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="78" cy="99" r="6.66667"/>
+</g>
+
+<g fill="none" stroke="#051f8c" stroke-opacity="1" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M84.6667,99 C84.6667,95.3181 81.6819,92.3333 78,92.3333 C74.3181,92.3333 71.3333,95.3181 71.3333,99 C71.3333,102.682 74.3181,105.667 78,105.667 C81.6819,105.667 84.6667,102.682 84.6667,99 "/>
+</g>
+
+<g fill="#0f47eb" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,32.2986,77.37)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.81787,-1.91748 C1.81787,-2.17204 1.84831,-2.4515 1.90918,-2.75586 C1.97005,-3.06022 2.03092,-3.31063 2.0918,-3.50708 C2.15267,-3.70353 2.29102,-4.08675 2.50684,-4.65674 C2.72266,-5.22673 2.83333,-5.52279 2.83887,-5.54492 C2.98828,-5.95996 3.06299,-6.30029 3.06299,-6.56592 C3.06299,-6.90348 2.93848,-7.07227 2.68945,-7.07227 C2.24121,-7.07227 1.87183,-6.84123 1.5813,-6.37915 C1.29077,-5.91707 1.07633,-5.40104 0.937988,-4.83105 C0.915853,-4.75911 0.868815,-4.72314 0.796875,-4.72314 L0.597656,-4.72314 C0.503581,-4.72314 0.456543,-4.77572 0.456543,-4.88086 L0.456543,-4.93066 C0.63916,-5.60579 0.91862,-6.20483 1.29492,-6.72778 C1.67122,-7.25073 2.14714,-7.51221 2.72266,-7.51221 C3.12663,-7.51221 3.46834,-7.37939 3.7478,-7.11377 C4.02726,-6.84814 4.16699,-6.51058 4.16699,-6.10107 C4.16699,-5.89079 4.11995,-5.66943 4.02588,-5.43701 C3.80452,-4.86149 3.63021,-4.4008 3.50293,-4.05493 C3.37565,-3.70907 3.25806,-3.3217 3.15015,-2.89282 C3.04224,-2.46395 2.98828,-2.06689 2.98828,-1.70166 C2.98828,-1.27555 3.08651,-0.928304 3.28296,-0.659912 C3.47941,-0.39152 3.78516,-0.257324 4.2002,-0.257324 C4.986,-0.257324 5.69434,-0.863281 6.3252,-2.0752 C6.52441,-2.4681 6.71257,-2.93018 6.88965,-3.46143 C7.06673,-3.99268 7.15527,-4.42432 7.15527,-4.75635 C7.15527,-5.09945 7.09993,-5.36646 6.98926,-5.55737 C6.87858,-5.74829 6.7347,-5.94751 6.55762,-6.15503 C6.38053,-6.36255 6.29199,-6.52718 6.29199,-6.64893 C6.29199,-6.87028 6.3833,-7.07227 6.56592,-7.25488 C6.74854,-7.4375 6.95052,-7.52881 7.17188,-7.52881 C7.44303,-7.52881 7.6381,-7.4043 7.75708,-7.15527 C7.87606,-6.90625 7.93555,-6.62402 7.93555,-6.30859 C7.93555,-5.93229 7.88159,-5.48405 7.77368,-4.96387 C7.66577,-4.44368 7.51636,-3.90413 7.32544,-3.34521 C7.13452,-2.7863 6.95882,-2.34635 6.79834,-2.02539 C6.05127,-0.547852 5.17969,0.190918 4.18359,0.190918 C3.46973,0.190918 2.89697,0.0124512 2.46533,-0.344482 C2.03369,-0.701416 1.81787,-1.22575 1.81787,-1.91748 "/>
+</g>
+
+<g fill="#0f47eb" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,38.6,79.3199)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M3,0.263672 C2.01953,0.263672 1.35254,-0.139648 0.999023,-0.946289 C0.645508,-1.75293 0.46875,-2.71289 0.46875,-3.82617 C0.46875,-4.52148 0.532227,-5.17578 0.65918,-5.78906 C0.786133,-6.40234 1.03809,-6.92285 1.41504,-7.35059 C1.79199,-7.77832 2.32031,-7.99219 3,-7.99219 C3.52734,-7.99219 3.95898,-7.86328 4.29492,-7.60547 C4.63086,-7.34766 4.88672,-7.01465 5.0625,-6.60645 C5.23828,-6.19824 5.3584,-5.76074 5.42285,-5.29395 C5.4873,-4.82715 5.51953,-4.33789 5.51953,-3.82617 C5.51953,-3.13867 5.45605,-2.49512 5.3291,-1.89551 C5.20215,-1.2959 4.95313,-0.786133 4.58203,-0.366211 C4.21094,0.0537109 3.68359,0.263672 3,0.263672 M3,-0.046875 C3.44531,-0.046875 3.77734,-0.275391 3.99609,-0.732422 C4.21484,-1.18945 4.34961,-1.69531 4.40039,-2.25 C4.45117,-2.80469 4.47656,-3.39453 4.47656,-4.01953 C4.47656,-4.62109 4.45117,-5.17578 4.40039,-5.68359 C4.34961,-6.19141 4.21582,-6.65137 3.99902,-7.06348 C3.78223,-7.47559 3.44922,-7.68164 3,-7.68164 C2.54688,-7.68164 2.21094,-7.47461 1.99219,-7.06055 C1.77344,-6.64648 1.63867,-6.18652 1.58789,-5.68066 C1.53711,-5.1748 1.51172,-4.62109 1.51172,-4.01953 C1.51172,-3.57422 1.52246,-3.1543 1.54395,-2.75977 C1.56543,-2.36523 1.62305,-1.95801 1.7168,-1.53809 C1.81055,-1.11816 1.96191,-0.764648 2.1709,-0.477539 C2.37988,-0.19043 2.65625,-0.046875 3,-0.046875 "/>
+</g>
+
+<g fill="#eb0a0a" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="568" cy="99" r="6.66667"/>
+</g>
+
+<g fill="none" stroke="#8c0505" stroke-opacity="1" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M574.667,99 C574.667,95.3181 571.682,92.3333 568,92.3333 C564.318,92.3333 561.333,95.3181 561.333,99 C561.333,102.682 564.318,105.667 568,105.667 C571.682,105.667 574.667,102.682 574.667,99 "/>
+</g>
+
+<g fill="#eb0a0a" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,440.7,77.37)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.81787,-1.91748 C1.81787,-2.17204 1.84831,-2.4515 1.90918,-2.75586 C1.97005,-3.06022 2.03092,-3.31063 2.0918,-3.50708 C2.15267,-3.70353 2.29102,-4.08675 2.50684,-4.65674 C2.72266,-5.22673 2.83333,-5.52279 2.83887,-5.54492 C2.98828,-5.95996 3.06299,-6.30029 3.06299,-6.56592 C3.06299,-6.90348 2.93848,-7.07227 2.68945,-7.07227 C2.24121,-7.07227 1.87183,-6.84123 1.5813,-6.37915 C1.29077,-5.91707 1.07633,-5.40104 0.937988,-4.83105 C0.915853,-4.75911 0.868815,-4.72314 0.796875,-4.72314 L0.597656,-4.72314 C0.503581,-4.72314 0.456543,-4.77572 0.456543,-4.88086 L0.456543,-4.93066 C0.63916,-5.60579 0.91862,-6.20483 1.29492,-6.72778 C1.67122,-7.25073 2.14714,-7.51221 2.72266,-7.51221 C3.12663,-7.51221 3.46834,-7.37939 3.7478,-7.11377 C4.02726,-6.84814 4.16699,-6.51058 4.16699,-6.10107 C4.16699,-5.89079 4.11995,-5.66943 4.02588,-5.43701 C3.80452,-4.86149 3.63021,-4.4008 3.50293,-4.05493 C3.37565,-3.70907 3.25806,-3.3217 3.15015,-2.89282 C3.04224,-2.46395 2.98828,-2.06689 2.98828,-1.70166 C2.98828,-1.27555 3.08651,-0.928304 3.28296,-0.659912 C3.47941,-0.39152 3.78516,-0.257324 4.2002,-0.257324 C4.986,-0.257324 5.69434,-0.863281 6.3252,-2.0752 C6.52441,-2.4681 6.71257,-2.93018 6.88965,-3.46143 C7.06673,-3.99268 7.15527,-4.42432 7.15527,-4.75635 C7.15527,-5.09945 7.09993,-5.36646 6.98926,-5.55737 C6.87858,-5.74829 6.7347,-5.94751 6.55762,-6.15503 C6.38053,-6.36255 6.29199,-6.52718 6.29199,-6.64893 C6.29199,-6.87028 6.3833,-7.07227 6.56592,-7.25488 C6.74854,-7.4375 6.95052,-7.52881 7.17188,-7.52881 C7.44303,-7.52881 7.6381,-7.4043 7.75708,-7.15527 C7.87606,-6.90625 7.93555,-6.62402 7.93555,-6.30859 C7.93555,-5.93229 7.88159,-5.48405 7.77368,-4.96387 C7.66577,-4.44368 7.51636,-3.90413 7.32544,-3.34521 C7.13452,-2.7863 6.95882,-2.34635 6.79834,-2.02539 C6.05127,-0.547852 5.17969,0.190918 4.18359,0.190918 C3.46973,0.190918 2.89697,0.0124512 2.46533,-0.344482 C2.03369,-0.701416 1.81787,-1.22575 1.81787,-1.91748 "/>
+</g>
+
+<g fill="#eb0a0a" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,447.001,79.3199)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M2.48438,0.744141 C2.48438,0.728516 2.49219,0.705078 2.50781,0.673828 C2.63281,0.396484 2.74805,0.120117 2.85352,-0.155273 C2.95898,-0.430664 3.05176,-0.695313 3.13184,-0.949219 C3.21191,-1.20313 3.28711,-1.47852 3.35742,-1.77539 L4.7168,-7.1543 C4.75586,-7.24414 4.83203,-7.33203 4.94531,-7.41797 L2.53125,-7.41797 C2.26953,-7.41797 2.08984,-7.37695 1.99219,-7.29492 C1.74219,-7.05664 1.61719,-6.78516 1.61719,-6.48047 C1.61719,-6.38281 1.55371,-6.28027 1.42676,-6.17285 C1.2998,-6.06543 1.15039,-5.97266 0.978516,-5.89453 C0.806641,-5.81641 0.667969,-5.77148 0.5625,-5.75977 L0.492188,-5.75977 C0.4375,-5.75977 0.410156,-5.80078 0.410156,-5.88281 C0.410156,-6.17969 0.510742,-6.46777 0.711914,-6.74707 C0.913086,-7.02637 1.17285,-7.27539 1.49121,-7.49414 C1.80957,-7.71289 2.14453,-7.88477 2.49609,-8.00977 C2.84766,-8.13477 3.16406,-8.19727 3.44531,-8.19727 L8.63086,-8.19727 C8.80664,-8.19727 8.9375,-8.20117 9.02344,-8.20898 C9.29297,-8.43945 9.57227,-8.57031 9.86133,-8.60156 L9.9375,-8.60156 C9.95703,-8.60156 9.97363,-8.59375 9.9873,-8.57813 C10.001,-8.5625 10.0078,-8.54297 10.0078,-8.51953 C10.0078,-8.44922 9.97266,-8.36914 9.90234,-8.2793 C9.63672,-7.94336 9.3252,-7.71582 8.96777,-7.59668 C8.61035,-7.47754 8.19336,-7.41797 7.7168,-7.41797 L5.8418,-7.41797 L4.55859,-2.31445 C4.34766,-1.47461 4.05664,-0.638672 3.68555,0.193359 C3.63477,0.287109 3.5498,0.378906 3.43066,0.46875 C3.31152,0.558594 3.17578,0.635742 3.02344,0.700195 C2.87109,0.764648 2.74414,0.802734 2.64258,0.814453 L2.56641,0.814453 C2.51172,0.814453 2.48438,0.791016 2.48438,0.744141 "/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,88.6591,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.57715,0 L1.57715,-0.597656 C2.99382,-0.597656 3.70215,-0.777507 3.70215,-1.13721 L3.70215,-10.0605 C3.11556,-9.77832 2.37402,-9.63721 1.47754,-9.63721 L1.47754,-10.2349 C2.86654,-10.2349 3.9152,-10.5973 4.62354,-11.3223 L4.86426,-11.3223 C4.90299,-11.3223 4.94035,-11.307 4.97632,-11.2766 C5.01229,-11.2462 5.03027,-11.2116 5.03027,-11.1729 L5.03027,-1.13721 C5.03027,-0.777507 5.73861,-0.597656 7.15527,-0.597656 L7.15527,0 L1.57715,0"/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,122.068,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0.84668,0 L0.84668,-0.456543 C0.84668,-0.484212 0.857747,-0.514648 0.879883,-0.547852 L3.51953,-3.46973 C3.91797,-3.90137 4.2417,-4.26383 4.49072,-4.55713 C4.73975,-4.85042 4.986,-5.18799 5.22949,-5.56982 C5.47298,-5.95166 5.66528,-6.34041 5.8064,-6.73608 C5.94751,-7.13175 6.01807,-7.55094 6.01807,-7.99365 C6.01807,-8.4585 5.93229,-8.90259 5.76074,-9.32593 C5.58919,-9.74927 5.33325,-10.0882 4.99292,-10.3428 C4.65259,-10.5973 4.2417,-10.7246 3.76025,-10.7246 C3.26774,-10.7246 2.82503,-10.5766 2.43213,-10.2805 C2.03923,-9.98446 1.76253,-9.60124 1.60205,-9.13086 C1.64632,-9.14193 1.70719,-9.14746 1.78467,-9.14746 C2.03923,-9.14746 2.25643,-9.06169 2.43628,-8.89014 C2.61613,-8.71859 2.70605,-8.49723 2.70605,-8.22607 C2.70605,-7.96598 2.61613,-7.74601 2.43628,-7.56616 C2.25643,-7.38631 2.03923,-7.29639 1.78467,-7.29639 C1.51904,-7.29639 1.29631,-7.38908 1.11646,-7.57446 C0.936605,-7.75985 0.84668,-7.97705 0.84668,-8.22607 C0.84668,-8.65218 0.926921,-9.052 1.0874,-9.42554 C1.24788,-9.79907 1.47892,-10.1311 1.78052,-10.4216 C2.08211,-10.7122 2.42244,-10.9349 2.80151,-11.0898 C3.18058,-11.2448 3.58317,-11.3223 4.00928,-11.3223 C4.65674,-11.3223 5.25993,-11.1853 5.81885,-10.9114 C6.37777,-10.6375 6.82048,-10.2501 7.14697,-9.74927 C7.47347,-9.24845 7.63672,-8.66325 7.63672,-7.99365 C7.63672,-7.50114 7.52881,-7.03353 7.31299,-6.59082 C7.09717,-6.14811 6.82048,-5.74552 6.48291,-5.38306 C6.14535,-5.02059 5.7137,-4.6097 5.18799,-4.15039 C4.66227,-3.69108 4.31641,-3.38395 4.15039,-3.229 L2.22461,-1.37793 L3.85986,-1.37793 C4.66227,-1.37793 5.33325,-1.38485 5.8728,-1.39868 C6.41235,-1.41252 6.69873,-1.43327 6.73193,-1.46094 C6.86475,-1.60482 7.00033,-2.12777 7.13867,-3.02979 L7.63672,-3.02979 L7.15527,0 L0.84668,0"/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,155.477,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.61865,-1.31152 C1.88428,-0.924154 2.24121,-0.636393 2.68945,-0.448242 C3.1377,-0.260091 3.61914,-0.166016 4.13379,-0.166016 C4.79232,-0.166016 5.25993,-0.446859 5.53662,-1.00854 C5.81331,-1.57023 5.95166,-2.20801 5.95166,-2.92188 C5.95166,-3.24284 5.92261,-3.5638 5.8645,-3.88477 C5.8064,-4.20573 5.70817,-4.50456 5.56982,-4.78125 C5.43148,-5.05794 5.24194,-5.2793 5.00122,-5.44531 C4.7605,-5.61133 4.46582,-5.69434 4.11719,-5.69434 L2.98828,-5.69434 C2.88867,-5.69434 2.83887,-5.74691 2.83887,-5.85205 L2.83887,-6.00146 C2.83887,-6.09001 2.88867,-6.13428 2.98828,-6.13428 L3.92627,-6.20898 C4.32471,-6.20898 4.65535,-6.3584 4.91821,-6.65723 C5.18107,-6.95605 5.37337,-7.31991 5.49512,-7.74878 C5.61686,-8.17765 5.67773,-8.58577 5.67773,-8.97314 C5.67773,-9.51546 5.55046,-9.96094 5.2959,-10.3096 C5.04134,-10.6582 4.65397,-10.8325 4.13379,-10.8325 C3.70215,-10.8325 3.28988,-10.7509 2.89697,-10.5876 C2.50407,-10.4244 2.19141,-10.1768 1.95898,-9.84473 C1.98112,-9.85026 2.00049,-9.85441 2.01709,-9.85718 C2.03369,-9.85994 2.05306,-9.86133 2.0752,-9.86133 C2.32975,-9.86133 2.54281,-9.77279 2.71436,-9.5957 C2.8859,-9.41862 2.97168,-9.20557 2.97168,-8.95654 C2.97168,-8.71305 2.8859,-8.50277 2.71436,-8.32568 C2.54281,-8.1486 2.32975,-8.06006 2.0752,-8.06006 C1.82617,-8.06006 1.61312,-8.1486 1.43604,-8.32568 C1.25895,-8.50277 1.17041,-8.71305 1.17041,-8.95654 C1.17041,-9.44352 1.31706,-9.86686 1.61035,-10.2266 C1.90365,-10.5863 2.28133,-10.8588 2.74341,-11.0442 C3.20549,-11.2296 3.66895,-11.3223 4.13379,-11.3223 C4.47689,-11.3223 4.83936,-11.2711 5.22119,-11.1687 C5.60303,-11.0663 5.94889,-10.9197 6.25879,-10.7288 C6.56868,-10.5378 6.82186,-10.293 7.01831,-9.99414 C7.21476,-9.69531 7.31299,-9.35498 7.31299,-8.97314 C7.31299,-8.49723 7.20646,-8.05729 6.99341,-7.65332 C6.78035,-7.24935 6.48844,-6.90072 6.11768,-6.60742 C5.74691,-6.31413 5.34017,-6.09554 4.89746,-5.95166 C5.38997,-5.85758 5.85758,-5.6722 6.30029,-5.39551 C6.743,-5.11882 7.09855,-4.76465 7.36694,-4.33301 C7.63534,-3.90137 7.76953,-3.43652 7.76953,-2.93848 C7.76953,-2.31315 7.59798,-1.74731 7.25488,-1.24097 C6.91178,-0.734619 6.46077,-0.338949 5.90186,-0.0539551 C5.34294,0.231038 4.75358,0.373535 4.13379,0.373535 C3.60254,0.373535 3.06991,0.272542 2.53589,0.0705566 C2.00187,-0.131429 1.5647,-0.434408 1.22437,-0.838379 C0.884033,-1.24235 0.713867,-1.72656 0.713867,-2.29102 C0.713867,-2.57324 0.807943,-2.80843 0.996094,-2.99658 C1.18424,-3.18473 1.41943,-3.27881 1.70166,-3.27881 C1.88428,-3.27881 2.05168,-3.23592 2.20386,-3.15015 C2.35604,-3.06437 2.47502,-2.94401 2.56079,-2.78906 C2.64657,-2.63411 2.68945,-2.4681 2.68945,-2.29102 C2.68945,-2.01432 2.59261,-1.7819 2.39893,-1.59375 C2.20524,-1.4056 1.97282,-1.31152 1.70166,-1.31152 L1.61865,-1.31152"/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,188.886,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0.473145,-2.80566 L0.473145,-3.40332 L5.72754,-11.2393 C5.76628,-11.2946 5.82438,-11.3223 5.90186,-11.3223 L6.15088,-11.3223 C6.27816,-11.3223 6.3418,-11.2586 6.3418,-11.1313 L6.3418,-3.40332 L8.01025,-3.40332 L8.01025,-2.80566 L6.3418,-2.80566 L6.3418,-1.13721 C6.3418,-0.904785 6.50781,-0.756755 6.83984,-0.693115 C7.17188,-0.629476 7.55648,-0.597656 7.99365,-0.597656 L7.99365,0 L3.31201,0 L3.31201,-0.597656 C3.74919,-0.597656 4.13379,-0.629476 4.46582,-0.693115 C4.79785,-0.756755 4.96387,-0.904785 4.96387,-1.13721 L4.96387,-2.80566 L0.473145,-2.80566 M1.0376,-3.40332 L5.06348,-3.40332 L5.06348,-9.42139 L1.0376,-3.40332"/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,222.295,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.47754,-1.93408 C1.59375,-1.60205 1.77222,-1.30046 2.01294,-1.0293 C2.25366,-0.758138 2.53866,-0.546468 2.86792,-0.394287 C3.19718,-0.242106 3.5389,-0.166016 3.89307,-0.166016 C4.71208,-0.166016 5.27653,-0.484212 5.58643,-1.12061 C5.89632,-1.757 6.05127,-2.52897 6.05127,-3.43652 C6.05127,-3.82943 6.04435,-4.16007 6.03052,-4.42847 C6.01668,-4.69686 5.97933,-4.95557 5.91846,-5.20459 C5.81331,-5.60303 5.62931,-5.95166 5.36646,-6.25049 C5.1036,-6.54932 4.78125,-6.69873 4.39941,-6.69873 C4.01758,-6.69873 3.6897,-6.64063 3.41577,-6.52441 C3.14185,-6.4082 2.91911,-6.27262 2.74756,-6.11768 C2.57601,-5.96273 2.42383,-5.79948 2.29102,-5.62793 C2.1582,-5.45638 2.0752,-5.36507 2.04199,-5.354 L1.85107,-5.354 C1.8234,-5.354 1.78882,-5.37199 1.74731,-5.40796 C1.70581,-5.44393 1.68506,-5.47852 1.68506,-5.51172 L1.68506,-11.1895 C1.68506,-11.2171 1.70304,-11.2462 1.73901,-11.2766 C1.77498,-11.307 1.81234,-11.3223 1.85107,-11.3223 L1.90088,-11.3223 C2.66455,-10.957 3.47526,-10.7744 4.33301,-10.7744 C5.17415,-10.7744 5.98486,-10.957 6.76514,-11.3223 L6.81494,-11.3223 C6.85368,-11.3223 6.88965,-11.3084 6.92285,-11.2808 C6.95605,-11.2531 6.97266,-11.2227 6.97266,-11.1895 L6.97266,-11.0317 C6.97266,-10.9764 6.96159,-10.9487 6.93945,-10.9487 C6.55208,-10.4341 6.06649,-10.0329 5.48267,-9.74512 C4.89884,-9.45736 4.29427,-9.31348 3.66895,-9.31348 C3.21517,-9.31348 2.75033,-9.37712 2.27441,-9.50439 L2.27441,-6.29199 C2.65072,-6.59635 2.9869,-6.81356 3.28296,-6.9436 C3.57902,-7.07365 3.95671,-7.13867 4.41602,-7.13867 C5.04134,-7.13867 5.60164,-6.95882 6.09692,-6.59912 C6.5922,-6.23942 6.97266,-5.77043 7.23828,-5.19214 C7.50391,-4.61385 7.63672,-4.02311 7.63672,-3.41992 C7.63672,-2.73926 7.46932,-2.1084 7.13452,-1.52734 C6.79972,-0.946289 6.34456,-0.484212 5.76904,-0.141113 C5.19352,0.201986 4.5682,0.373535 3.89307,0.373535 C3.33415,0.373535 2.82088,0.229655 2.35327,-0.0581055 C1.88566,-0.345866 1.51766,-0.733236 1.24927,-1.22021 C0.980876,-1.70719 0.84668,-2.22461 0.84668,-2.77246 C0.84668,-3.02702 0.929688,-3.23454 1.0957,-3.39502 C1.26172,-3.5555 1.46924,-3.63574 1.71826,-3.63574 C1.96729,-3.63574 2.17619,-3.55412 2.34497,-3.39087 C2.51375,-3.22762 2.59814,-3.02148 2.59814,-2.77246 C2.59814,-2.52897 2.51375,-2.32284 2.34497,-2.15405 C2.17619,-1.98527 1.96729,-1.90088 1.71826,-1.90088 C1.67952,-1.90088 1.63525,-1.90503 1.58545,-1.91333 C1.53564,-1.92163 1.49967,-1.92855 1.47754,-1.93408 "/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,255.705,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M4.25,0.373535 C3.5472,0.373535 2.96061,0.186768 2.49023,-0.186768 C2.01986,-0.560303 1.65601,-1.04451 1.39868,-1.6394 C1.14136,-2.23429 0.962891,-2.85824 0.863281,-3.51123 C0.763672,-4.16423 0.713867,-4.82552 0.713867,-5.49512 C0.713867,-6.3916 0.888184,-7.29085 1.23682,-8.19287 C1.58545,-9.09489 2.09871,-9.84196 2.77661,-10.4341 C3.45451,-11.0262 4.2583,-11.3223 5.18799,-11.3223 C5.57536,-11.3223 5.93644,-11.2489 6.27124,-11.1023 C6.60604,-10.9556 6.8689,-10.7398 7.05981,-10.4548 C7.25073,-10.1698 7.34619,-9.82536 7.34619,-9.42139 C7.34619,-9.18896 7.26733,-8.9939 7.10962,-8.83618 C6.9519,-8.67847 6.75684,-8.59961 6.52441,-8.59961 C6.30306,-8.59961 6.11214,-8.67985 5.95166,-8.84033 C5.79118,-9.00081 5.71094,-9.1945 5.71094,-9.42139 C5.71094,-9.64274 5.79118,-9.83366 5.95166,-9.99414 C6.11214,-10.1546 6.30306,-10.2349 6.52441,-10.2349 L6.61572,-10.2349 C6.47184,-10.4396 6.26847,-10.5904 6.00562,-10.6873 C5.74276,-10.7841 5.47021,-10.8325 5.18799,-10.8325 C4.84489,-10.8325 4.52808,-10.7578 4.23755,-10.6084 C3.94702,-10.459 3.68555,-10.257 3.45313,-10.0024 C3.2207,-9.74788 3.02702,-9.46704 2.87207,-9.15991 C2.71712,-8.85278 2.59676,-8.50277 2.51099,-8.10986 C2.42521,-7.71696 2.37126,-7.34896 2.34912,-7.00586 C2.32699,-6.66276 2.31592,-6.23112 2.31592,-5.71094 C2.51514,-6.17578 2.79736,-6.55623 3.1626,-6.85229 C3.52783,-7.14836 3.9401,-7.29639 4.39941,-7.29639 C4.90299,-7.29639 5.3623,-7.19401 5.77734,-6.98926 C6.19238,-6.78451 6.54932,-6.5009 6.84814,-6.13843 C7.14697,-5.77596 7.37524,-5.3623 7.53296,-4.89746 C7.69067,-4.43262 7.76953,-3.96224 7.76953,-3.48633 C7.76953,-2.82227 7.6215,-2.19002 7.32544,-1.5896 C7.02938,-0.989176 6.61296,-0.511882 6.07617,-0.157715 C5.53939,0.196452 4.93066,0.373535 4.25,0.373535 M4.25,-0.166016 C4.68717,-0.166016 5.03857,-0.265625 5.3042,-0.464844 C5.56982,-0.664063 5.76489,-0.928304 5.8894,-1.25757 C6.01392,-1.58683 6.09139,-1.91886 6.12183,-2.25366 C6.15226,-2.58846 6.16748,-2.99935 6.16748,-3.48633 C6.16748,-4.12826 6.13704,-4.67611 6.07617,-5.12988 C6.0153,-5.58366 5.84928,-5.98348 5.57813,-6.32935 C5.30697,-6.67521 4.89193,-6.84814 4.33301,-6.84814 C3.8737,-6.84814 3.49601,-6.6932 3.19995,-6.3833 C2.90389,-6.0734 2.68807,-5.68188 2.55249,-5.20874 C2.41691,-4.7356 2.34912,-4.28044 2.34912,-3.84326 C2.34912,-3.69385 2.35465,-3.5804 2.36572,-3.50293 C2.36572,-3.48633 2.36434,-3.47249 2.36157,-3.46143 C2.35881,-3.45036 2.35465,-3.43652 2.34912,-3.41992 C2.34912,-2.93294 2.39893,-2.44043 2.49854,-1.94238 C2.59814,-1.44434 2.78906,-1.02376 3.07129,-0.680664 C3.35352,-0.337565 3.74642,-0.166016 4.25,-0.166016 "/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,289.114,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M2.95508,-0.439941 C2.95508,-1.0708 3.01042,-1.68783 3.12109,-2.29102 C3.23177,-2.89421 3.39364,-3.49048 3.60669,-4.07983 C3.81974,-4.66919 4.07707,-5.24748 4.37866,-5.8147 C4.68026,-6.38192 5.0109,-6.91455 5.37061,-7.4126 L6.92285,-9.5708 L4.98047,-9.5708 C2.96615,-9.5708 1.92855,-9.54313 1.86768,-9.48779 C1.71826,-9.30518 1.57715,-8.78223 1.44434,-7.91895 L0.95459,-7.91895 L1.51074,-11.4883 L2.00879,-11.4883 L2.00879,-11.4385 C2.00879,-11.2337 2.35465,-11.1009 3.04639,-11.04 C3.73812,-10.9792 4.41602,-10.9487 5.08008,-10.9487 L8.24268,-10.9487 L8.24268,-10.5088 C8.24268,-10.4977 8.24129,-10.4894 8.23853,-10.4839 C8.23576,-10.4784 8.23161,-10.4701 8.22607,-10.459 L5.88525,-7.17188 C5.30973,-6.31966 4.95003,-5.37337 4.80615,-4.33301 C4.66227,-3.29264 4.59033,-1.99495 4.59033,-0.439941 C4.59033,-0.218587 4.51009,-0.0276693 4.34961,0.132813 C4.18913,0.293294 3.99821,0.373535 3.77686,0.373535 C3.54997,0.373535 3.35628,0.293294 3.1958,0.132813 C3.03532,-0.0276693 2.95508,-0.218587 2.95508,-0.439941 "/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,322.523,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0.713867,-2.58154 C0.713867,-3.26221 0.937988,-3.86401 1.38623,-4.38696 C1.83447,-4.90991 2.40999,-5.3457 3.11279,-5.69434 L2.48193,-6.10107 C2.09456,-6.35563 1.77913,-6.69458 1.53564,-7.11792 C1.29215,-7.54126 1.17041,-7.98535 1.17041,-8.4502 C1.17041,-8.99251 1.31291,-9.48226 1.5979,-9.91943 C1.88289,-10.3566 2.26196,-10.6997 2.73511,-10.9487 C3.20825,-11.1978 3.71322,-11.3223 4.25,-11.3223 C4.75358,-11.3223 5.23918,-11.2199 5.70679,-11.0151 C6.1744,-10.8104 6.559,-10.5171 6.8606,-10.1353 C7.16219,-9.75342 7.31299,-9.29964 7.31299,-8.77393 C7.31299,-8.39209 7.22306,-8.03792 7.04321,-7.71143 C6.86336,-7.38493 6.61711,-7.09163 6.30444,-6.83154 C5.99178,-6.57145 5.65837,-6.3501 5.3042,-6.16748 L6.27539,-5.54492 C6.72363,-5.25163 7.08472,-4.86702 7.35864,-4.39111 C7.63257,-3.9152 7.76953,-3.41439 7.76953,-2.88867 C7.76953,-2.27441 7.6049,-1.71549 7.27563,-1.21191 C6.94637,-0.708333 6.51058,-0.318197 5.96826,-0.0415039 C5.42594,0.235189 4.85319,0.373535 4.25,0.373535 C3.66341,0.373535 3.09757,0.254557 2.55249,0.0166016 C2.00741,-0.221354 1.5647,-0.565837 1.22437,-1.01685 C0.884033,-1.46785 0.713867,-1.98942 0.713867,-2.58154 M1.63525,-2.58154 C1.63525,-2.1333 1.75838,-1.7238 2.00464,-1.35303 C2.2509,-0.982259 2.57601,-0.691732 2.97998,-0.481445 C3.38395,-0.271159 3.80729,-0.166016 4.25,-0.166016 C4.90853,-0.166016 5.50618,-0.358317 6.04297,-0.74292 C6.57975,-1.12752 6.84814,-1.63802 6.84814,-2.27441 C6.84814,-2.49023 6.80526,-2.70467 6.71948,-2.91772 C6.63371,-3.13078 6.51473,-3.32446 6.36255,-3.49878 C6.21037,-3.6731 6.0402,-3.81559 5.85205,-3.92627 L3.56934,-5.40381 C3.21517,-5.21566 2.89006,-4.9777 2.59399,-4.68994 C2.29793,-4.40218 2.06413,-4.07845 1.89258,-3.71875 C1.72103,-3.35905 1.63525,-2.97998 1.63525,-2.58154 M2.80566,-7.76953 L4.86426,-6.44141 C5.34017,-6.7181 5.73031,-7.0529 6.03467,-7.4458 C6.33903,-7.8387 6.49121,-8.28141 6.49121,-8.77393 C6.49121,-9.15576 6.38468,-9.50578 6.17163,-9.82397 C5.95858,-10.1422 5.6805,-10.3898 5.3374,-10.5669 C4.9943,-10.744 4.6263,-10.8325 4.2334,-10.8325 C3.8903,-10.8325 3.54443,-10.7661 3.1958,-10.6333 C2.84717,-10.5005 2.55941,-10.3027 2.33252,-10.0398 C2.10563,-9.77694 1.99219,-9.46842 1.99219,-9.11426 C1.99219,-8.58301 2.26335,-8.13477 2.80566,-7.76953 "/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,355.932,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.91748,-0.713867 C2.22738,-0.348633 2.76693,-0.166016 3.53613,-0.166016 C3.96777,-0.166016 4.37036,-0.312663 4.7439,-0.605957 C5.11743,-0.899251 5.40658,-1.25895 5.61133,-1.68506 C5.84928,-2.1665 6.00146,-2.67977 6.06787,-3.22485 C6.13428,-3.76994 6.16748,-4.44645 6.16748,-5.25439 C5.9738,-4.79508 5.69572,-4.41878 5.33325,-4.12549 C4.97078,-3.83219 4.55436,-3.68555 4.08398,-3.68555 C3.42546,-3.68555 2.83748,-3.86401 2.32007,-4.22095 C1.80265,-4.57788 1.4056,-5.04826 1.12891,-5.63208 C0.852214,-6.2159 0.713867,-6.83708 0.713867,-7.49561 C0.713867,-8.17627 0.868815,-8.81128 1.17871,-9.40063 C1.48861,-9.98999 1.91748,-10.4576 2.46533,-10.8035 C3.01318,-11.1493 3.63574,-11.3223 4.33301,-11.3223 C5.01921,-11.3223 5.59334,-11.1355 6.05542,-10.762 C6.5175,-10.3884 6.87028,-9.90698 7.11377,-9.31763 C7.35726,-8.72827 7.52743,-8.10433 7.62427,-7.4458 C7.72111,-6.78727 7.76953,-6.13704 7.76953,-5.49512 C7.76953,-4.62077 7.60905,-3.72843 7.28809,-2.81812 C6.96712,-1.9078 6.48706,-1.14827 5.8479,-0.539551 C5.20874,0.0691732 4.43815,0.373535 3.53613,0.373535 C2.86654,0.373535 2.29932,0.21582 1.83447,-0.0996094 C1.36963,-0.415039 1.13721,-0.890951 1.13721,-1.52734 C1.13721,-1.75977 1.21606,-1.95483 1.37378,-2.11255 C1.53149,-2.27026 1.72656,-2.34912 1.95898,-2.34912 C2.18587,-2.34912 2.37817,-2.27026 2.53589,-2.11255 C2.6936,-1.95483 2.77246,-1.75977 2.77246,-1.52734 C2.77246,-1.30599 2.69222,-1.11507 2.53174,-0.95459 C2.37126,-0.794108 2.18034,-0.713867 1.95898,-0.713867 L1.91748,-0.713867 M4.15039,-4.13379 C4.61523,-4.13379 4.99569,-4.29012 5.29175,-4.60278 C5.58781,-4.91545 5.80225,-5.3042 5.93506,-5.76904 C6.06787,-6.23389 6.13428,-6.69596 6.13428,-7.15527 L6.13428,-7.479 L6.13428,-7.54541 C6.13428,-8.39762 6.00977,-9.15853 5.76074,-9.82813 C5.51172,-10.4977 5.03581,-10.8325 4.33301,-10.8325 C3.88477,-10.8325 3.52091,-10.7343 3.24146,-10.5378 C2.962,-10.3414 2.75586,-10.0799 2.62305,-9.75342 C2.49023,-9.42692 2.40584,-9.07829 2.36987,-8.70752 C2.3339,-8.33675 2.31592,-7.93278 2.31592,-7.49561 C2.31592,-6.85368 2.34635,-6.30583 2.40723,-5.85205 C2.4681,-5.39827 2.63411,-4.99845 2.90527,-4.65259 C3.17643,-4.30672 3.59147,-4.13379 4.15039,-4.13379 "/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,386.091,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.57715,0 L1.57715,-0.597656 C2.99382,-0.597656 3.70215,-0.777507 3.70215,-1.13721 L3.70215,-10.0605 C3.11556,-9.77832 2.37402,-9.63721 1.47754,-9.63721 L1.47754,-10.2349 C2.86654,-10.2349 3.9152,-10.5973 4.62354,-11.3223 L4.86426,-11.3223 C4.90299,-11.3223 4.94035,-11.307 4.97632,-11.2766 C5.01229,-11.2462 5.03027,-11.2116 5.03027,-11.1729 L5.03027,-1.13721 C5.03027,-0.777507 5.73861,-0.597656 7.15527,-0.597656 L7.15527,0 L1.57715,0"/>
+</g>
+
+<g fill="#595959" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,392.591,143.745)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M4.25,0.373535 C2.861,0.373535 1.9161,-0.197835 1.41528,-1.34058 C0.914469,-2.48332 0.664063,-3.84326 0.664063,-5.42041 C0.664063,-6.40544 0.753988,-7.33236 0.933838,-8.20117 C1.11369,-9.06999 1.47062,-9.80737 2.00464,-10.4133 C2.53866,-11.0193 3.28711,-11.3223 4.25,-11.3223 C4.99707,-11.3223 5.60856,-11.1396 6.08447,-10.7744 C6.56038,-10.4092 6.92285,-9.93742 7.17188,-9.35913 C7.4209,-8.78084 7.59106,-8.16105 7.68237,-7.49976 C7.77368,-6.83846 7.81934,-6.14535 7.81934,-5.42041 C7.81934,-4.44645 7.72941,-3.53475 7.54956,-2.6853 C7.36971,-1.83586 7.01693,-1.11369 6.49121,-0.518799 C5.96549,0.0760905 5.21842,0.373535 4.25,0.373535 M4.25,-0.0664063 C4.88086,-0.0664063 5.35124,-0.390137 5.66113,-1.0376 C5.97103,-1.68506 6.16195,-2.40169 6.23389,-3.1875 C6.30583,-3.97331 6.3418,-4.80892 6.3418,-5.69434 C6.3418,-6.54655 6.30583,-7.33236 6.23389,-8.05176 C6.16195,-8.77116 5.97241,-9.42277 5.66528,-10.0066 C5.35815,-10.5904 4.88639,-10.8823 4.25,-10.8823 C3.60807,-10.8823 3.13216,-10.589 2.82227,-10.0024 C2.51237,-9.41585 2.32145,-8.76424 2.24951,-8.04761 C2.17757,-7.33097 2.1416,-6.54655 2.1416,-5.69434 C2.1416,-5.06348 2.15682,-4.46859 2.18726,-3.90967 C2.21769,-3.35075 2.29932,-2.77384 2.43213,-2.17896 C2.56494,-1.58407 2.77938,-1.08325 3.07544,-0.676514 C3.3715,-0.269775 3.76302,-0.0664063 4.25,-0.0664063 "/>
+</g>
+
+<g fill="#404040" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,227.917,152.505)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0.898438,0.226563 L0.898438,-3.50781 C0.898438,-3.59115 0.945313,-3.63281 1.03906,-3.63281 L1.23438,-3.63281 C1.26563,-3.63281 1.29427,-3.61979 1.32031,-3.59375 C1.34635,-3.56771 1.35938,-3.53906 1.35938,-3.50781 C1.35938,-2.46094 1.68359,-1.64974 2.33203,-1.07422 C2.98047,-0.498698 3.83073,-0.210938 4.88281,-0.210938 C5.2526,-0.210938 5.59375,-0.317708 5.90625,-0.53125 C6.21875,-0.744792 6.46224,-1.02474 6.63672,-1.37109 C6.8112,-1.71745 6.89844,-2.07552 6.89844,-2.44531 C6.89844,-2.76823 6.83333,-3.08203 6.70313,-3.38672 C6.57292,-3.69141 6.38542,-3.95573 6.14063,-4.17969 C5.89583,-4.40365 5.61979,-4.55208 5.3125,-4.625 L3.23438,-5.13281 C2.54688,-5.3151 1.98568,-5.6888 1.55078,-6.25391 C1.11589,-6.81901 0.898438,-7.45313 0.898438,-8.15625 C0.898438,-8.70833 1.03906,-9.22656 1.32031,-9.71094 C1.60156,-10.1953 1.98047,-10.5781 2.45703,-10.8594 C2.93359,-11.1406 3.44792,-11.2813 4,-11.2813 C5.06771,-11.2813 5.91667,-10.9193 6.54688,-10.1953 L7.20313,-11.2344 C7.23438,-11.2656 7.27083,-11.2813 7.3125,-11.2813 L7.42188,-11.2813 C7.45313,-11.2813 7.48307,-11.2695 7.51172,-11.2461 C7.54036,-11.2227 7.55469,-11.1901 7.55469,-11.1484 L7.55469,-7.4375 C7.55469,-7.34375 7.51042,-7.29688 7.42188,-7.29688 L7.23438,-7.29688 C7.13542,-7.29688 7.08594,-7.34375 7.08594,-7.4375 C7.08594,-7.70833 7.04036,-8.00521 6.94922,-8.32813 C6.85807,-8.65104 6.73177,-8.96094 6.57031,-9.25781 C6.40885,-9.55469 6.23438,-9.79688 6.04688,-9.98438 C5.53125,-10.5052 4.84896,-10.7656 4,-10.7656 C3.63542,-10.7656 3.29948,-10.6732 2.99219,-10.4883 C2.6849,-10.3034 2.4401,-10.0521 2.25781,-9.73438 C2.07552,-9.41667 1.98438,-9.08333 1.98438,-8.73438 C1.98438,-8.27604 2.1263,-7.86068 2.41016,-7.48828 C2.69401,-7.11589 3.0651,-6.86979 3.52344,-6.75 L5.60156,-6.24219 C5.94531,-6.15885 6.26953,-6.00911 6.57422,-5.79297 C6.87891,-5.57682 7.13281,-5.32552 7.33594,-5.03906 C7.53906,-4.7526 7.69792,-4.43359 7.8125,-4.08203 C7.92708,-3.73047 7.98438,-3.36719 7.98438,-2.99219 C7.98438,-2.41406 7.85156,-1.86849 7.58594,-1.35547 C7.32031,-0.842448 6.94661,-0.429688 6.46484,-0.117188 C5.98307,0.195313 5.45573,0.351563 4.88281,0.351563 C4.52865,0.351563 4.16667,0.3125 3.79688,0.234375 C3.42708,0.15625 3.08594,0.0364583 2.77344,-0.125 C2.46094,-0.286458 2.17708,-0.494792 1.92188,-0.75 L1.25,0.304688 C1.21875,0.335938 1.17969,0.351563 1.13281,0.351563 L1.03906,0.351563 C0.945313,0.351563 0.898438,0.309896 0.898438,0.226563 "/>
+</g>
+
+<g fill="#404040" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,234.583,152.505)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.63281,-1.92188 L1.63281,-6.33594 L0.304688,-6.33594 L0.304688,-6.75 C1.0026,-6.75 1.51563,-7.07552 1.84375,-7.72656 C2.17188,-8.3776 2.33594,-9.08333 2.33594,-9.84375 L2.79688,-9.84375 L2.79688,-6.89844 L5.05469,-6.89844 L5.05469,-6.33594 L2.79688,-6.33594 L2.79688,-1.95313 C2.79688,-1.51042 2.87109,-1.1224 3.01953,-0.789063 C3.16797,-0.455729 3.4349,-0.289063 3.82031,-0.289063 C4.1849,-0.289063 4.44792,-0.464844 4.60938,-0.816406 C4.77083,-1.16797 4.85156,-1.54688 4.85156,-1.95313 L4.85156,-2.89844 L5.3125,-2.89844 L5.3125,-1.92188 C5.3125,-1.58854 5.2513,-1.25911 5.12891,-0.933594 C5.00651,-0.608073 4.82552,-0.341146 4.58594,-0.132813 C4.34635,0.0755208 4.05469,0.179688 3.71094,0.179688 C3.07031,0.179688 2.5638,-0.0117188 2.19141,-0.394531 C1.81901,-0.777344 1.63281,-1.28646 1.63281,-1.92188 "/>
+</g>
+
+<g fill="#404040" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,239.25,152.505)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0.640625,-1.57031 C0.640625,-2.20573 0.890625,-2.72266 1.39063,-3.12109 C1.89063,-3.51953 2.49089,-3.80078 3.19141,-3.96484 C3.89193,-4.12891 4.55729,-4.21094 5.1875,-4.21094 L5.1875,-4.86719 C5.1875,-5.17448 5.11979,-5.47266 4.98438,-5.76172 C4.84896,-6.05078 4.65365,-6.28776 4.39844,-6.47266 C4.14323,-6.65755 3.86198,-6.75 3.55469,-6.75 C2.84635,-6.75 2.30729,-6.59115 1.9375,-6.27344 C2.14063,-6.27344 2.30859,-6.19661 2.44141,-6.04297 C2.57422,-5.88932 2.64063,-5.71094 2.64063,-5.50781 C2.64063,-5.29427 2.5651,-5.11198 2.41406,-4.96094 C2.26302,-4.8099 2.08333,-4.73438 1.875,-4.73438 C1.66146,-4.73438 1.47917,-4.8099 1.32813,-4.96094 C1.17708,-5.11198 1.10156,-5.29427 1.10156,-5.50781 C1.10156,-6.07031 1.35677,-6.48828 1.86719,-6.76172 C2.3776,-7.03516 2.9401,-7.17188 3.55469,-7.17188 C3.98698,-7.17188 4.42188,-7.07943 4.85938,-6.89453 C5.29688,-6.70964 5.65495,-6.44531 5.93359,-6.10156 C6.21224,-5.75781 6.35156,-5.35677 6.35156,-4.89844 L6.35156,-1.29688 C6.35156,-1.08854 6.39583,-0.897135 6.48438,-0.722656 C6.57292,-0.548177 6.71094,-0.460938 6.89844,-0.460938 C7.07552,-0.460938 7.20703,-0.549479 7.29297,-0.726563 C7.37891,-0.903646 7.42188,-1.09375 7.42188,-1.29688 L7.42188,-2.32031 L7.89063,-2.32031 L7.89063,-1.29688 C7.89063,-1.05729 7.82813,-0.829427 7.70313,-0.613281 C7.57813,-0.397135 7.41016,-0.22526 7.19922,-0.0976563 C6.98828,0.0299479 6.76042,0.09375 6.51563,0.09375 C6.20313,0.09375 5.93359,-0.0273438 5.70703,-0.269531 C5.48047,-0.511719 5.35417,-0.799479 5.32813,-1.13281 C5.13021,-0.731771 4.83854,-0.41276 4.45313,-0.175781 C4.06771,0.0611979 3.65625,0.179688 3.21875,0.179688 C2.8125,0.179688 2.41276,0.119792 2.01953,0 C1.6263,-0.119792 1.29818,-0.308594 1.03516,-0.566406 C0.772135,-0.824219 0.640625,-1.15885 0.640625,-1.57031 M1.9375,-1.57031 C1.9375,-1.19531 2.07552,-0.880208 2.35156,-0.625 C2.6276,-0.369792 2.95313,-0.242188 3.32813,-0.242188 C3.67188,-0.242188 3.98438,-0.328125 4.26563,-0.5 C4.54688,-0.671875 4.77083,-0.90625 4.9375,-1.20313 C5.10417,-1.5 5.1875,-1.8125 5.1875,-2.14063 L5.1875,-3.80469 C4.70313,-3.80469 4.20703,-3.72526 3.69922,-3.56641 C3.19141,-3.40755 2.77083,-3.15885 2.4375,-2.82031 C2.10417,-2.48177 1.9375,-2.0651 1.9375,-1.57031 "/>
+</g>
+
+<g fill="#404040" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,245.25,152.505)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0.445313,1.25 C0.445313,0.869792 0.583333,0.53776 0.859375,0.253906 C1.13542,-0.0299479 1.46354,-0.231771 1.84375,-0.351563 C1.63021,-0.513021 1.46745,-0.716146 1.35547,-0.960938 C1.24349,-1.20573 1.1875,-1.46615 1.1875,-1.74219 C1.1875,-2.24219 1.34635,-2.6849 1.66406,-3.07031 C1.17448,-3.54948 0.929688,-4.09896 0.929688,-4.71875 C0.929688,-5.05208 1.0013,-5.36458 1.14453,-5.65625 C1.28776,-5.94792 1.48698,-6.20052 1.74219,-6.41406 C1.9974,-6.6276 2.28125,-6.79036 2.59375,-6.90234 C2.90625,-7.01432 3.22656,-7.07031 3.55469,-7.07031 C4.1901,-7.07031 4.76042,-6.88542 5.26563,-6.51563 C5.48438,-6.75 5.74349,-6.93099 6.04297,-7.05859 C6.34245,-7.1862 6.65365,-7.25 6.97656,-7.25 C7.20573,-7.25 7.39323,-7.16797 7.53906,-7.00391 C7.6849,-6.83984 7.75781,-6.64323 7.75781,-6.41406 C7.75781,-6.28385 7.70833,-6.16927 7.60938,-6.07031 C7.51042,-5.97135 7.39583,-5.92188 7.26563,-5.92188 C7.13021,-5.92188 7.01302,-5.97135 6.91406,-6.07031 C6.8151,-6.16927 6.76563,-6.28385 6.76563,-6.41406 C6.76563,-6.61198 6.83073,-6.75 6.96094,-6.82813 C6.40885,-6.82813 5.9349,-6.63802 5.53906,-6.25781 C5.73177,-6.0651 5.88672,-5.82943 6.00391,-5.55078 C6.12109,-5.27214 6.17969,-4.99479 6.17969,-4.71875 C6.17969,-4.26563 6.05469,-3.85807 5.80469,-3.49609 C5.55469,-3.13411 5.22526,-2.85286 4.81641,-2.65234 C4.40755,-2.45182 3.98698,-2.35156 3.55469,-2.35156 C2.97135,-2.35156 2.4375,-2.51042 1.95313,-2.82813 C1.80208,-2.61979 1.72656,-2.38542 1.72656,-2.125 C1.72656,-1.84375 1.81901,-1.59766 2.00391,-1.38672 C2.1888,-1.17578 2.42188,-1.07031 2.70313,-1.07031 L4.01563,-1.07031 C4.65104,-1.07031 5.22396,-1.01302 5.73438,-0.898438 C6.24479,-0.783854 6.67318,-0.554688 7.01953,-0.210938 C7.36589,0.132813 7.53906,0.619792 7.53906,1.25 C7.53906,1.71875 7.34115,2.10807 6.94531,2.41797 C6.54948,2.72786 6.07682,2.95182 5.52734,3.08984 C4.97786,3.22786 4.46875,3.29688 4,3.29688 C3.52604,3.29688 3.01302,3.22786 2.46094,3.08984 C1.90885,2.95182 1.4349,2.72786 1.03906,2.41797 C0.643229,2.10807 0.445313,1.71875 0.445313,1.25 M1.34375,1.25 C1.34375,1.60938 1.48958,1.91016 1.78125,2.15234 C2.07292,2.39453 2.42448,2.57422 2.83594,2.69141 C3.2474,2.80859 3.63542,2.86719 4,2.86719 C4.35938,2.86719 4.74479,2.80859 5.15625,2.69141 C5.56771,2.57422 5.91797,2.39453 6.20703,2.15234 C6.49609,1.91016 6.64063,1.60938 6.64063,1.25 C6.64063,0.692708 6.38542,0.332031 5.875,0.167969 C5.36458,0.00390625 4.74479,-0.078125 4.01563,-0.078125 L2.70313,-0.078125 C2.45833,-0.078125 2.23307,-0.0195313 2.02734,0.0976563 C1.82161,0.214844 1.65625,0.378906 1.53125,0.589844 C1.40625,0.800781 1.34375,1.02083 1.34375,1.25 M3.55469,-2.78125 C4.46094,-2.78125 4.91406,-3.42708 4.91406,-4.71875 C4.91406,-5.27604 4.81771,-5.73568 4.625,-6.09766 C4.43229,-6.45964 4.07552,-6.64063 3.55469,-6.64063 C3.03385,-6.64063 2.67708,-6.45964 2.48438,-6.09766 C2.29167,-5.73568 2.19531,-5.27604 2.19531,-4.71875 C2.19531,-4.36458 2.23177,-4.04427 2.30469,-3.75781 C2.3776,-3.47135 2.51302,-3.23698 2.71094,-3.05469 C2.90885,-2.8724 3.1901,-2.78125 3.55469,-2.78125 "/>
+</g>
+
+<g fill="#404040" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,251.25,152.505)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M3.98438,0.179688 C3.33333,0.179688 2.73568,0.00911458 2.19141,-0.332031 C1.64714,-0.673177 1.22005,-1.12891 0.910156,-1.69922 C0.60026,-2.26953 0.445313,-2.8724 0.445313,-3.50781 C0.445313,-4.13281 0.58724,-4.72656 0.871094,-5.28906 C1.15495,-5.85156 1.55078,-6.30599 2.05859,-6.65234 C2.56641,-6.9987 3.13281,-7.17188 3.75781,-7.17188 C4.2474,-7.17188 4.67318,-7.08984 5.03516,-6.92578 C5.39714,-6.76172 5.69531,-6.53385 5.92969,-6.24219 C6.16406,-5.95052 6.34115,-5.60677 6.46094,-5.21094 C6.58073,-4.8151 6.64063,-4.38021 6.64063,-3.90625 C6.64063,-3.76563 6.58594,-3.69531 6.47656,-3.69531 L1.84375,-3.69531 L1.84375,-3.52344 C1.84375,-2.63802 2.02214,-1.8776 2.37891,-1.24219 C2.73568,-0.606771 3.31771,-0.289063 4.125,-0.289063 C4.45313,-0.289063 4.75651,-0.361979 5.03516,-0.507813 C5.3138,-0.653646 5.55599,-0.856771 5.76172,-1.11719 C5.96745,-1.3776 6.10677,-1.65625 6.17969,-1.95313 C6.1901,-1.98958 6.20964,-2.02214 6.23828,-2.05078 C6.26693,-2.07943 6.29948,-2.09375 6.33594,-2.09375 L6.47656,-2.09375 C6.58594,-2.09375 6.64063,-2.02604 6.64063,-1.89063 C6.48958,-1.28646 6.16406,-0.790365 5.66406,-0.402344 C5.16406,-0.0143229 4.60417,0.179688 3.98438,0.179688 M1.85938,-4.09375 L5.50781,-4.09375 C5.50781,-4.49479 5.45182,-4.90104 5.33984,-5.3125 C5.22786,-5.72396 5.04167,-6.06641 4.78125,-6.33984 C4.52083,-6.61328 4.17969,-6.75 3.75781,-6.75 C3.15365,-6.75 2.6862,-6.46745 2.35547,-5.90234 C2.02474,-5.33724 1.85938,-4.73438 1.85938,-4.09375 "/>
+</g>
+
+<g fill="#808080" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<circle cx="78" cy="99" r="3.33333"/>
+</g>
+
+<g fill="none" stroke="#ffffdc" stroke-opacity="1" stroke-width="1.33333" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M81.3333,99 C81.3333,97.159 79.8409,95.6667 78,95.6667 C76.159,95.6667 74.6667,97.159 74.6667,99 C74.6667,100.841 76.159,102.333 78,102.333 C79.8409,102.333 81.3333,100.841 81.3333,99 "/>
+</g>
+</g>
+</svg>
