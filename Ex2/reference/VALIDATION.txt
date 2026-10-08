@@ -1,0 +1,39 @@
+EXAMPLE 2 VALIDATION -- 2026-10-08
+MATLAB R2025b Update 1 (25.2.0.3042426).
+
+Six independent regression checks passed:
+  1. Capped single-node solution versus the exact clipped Gibbs law.
+  2. Newton-initialized wrapper versus that same exact solution.
+  3. Shared-network marginals and costs versus explicitly enumerated tensors.
+  4. Previously active capacity multipliers can return to one.
+  5. Active shared capacities versus independently scaled full tensors.
+  6. Original infeasible varying line capacity is rejected before scaling.
+
+All four full-size experiments were checked at n_t=200, epsilon=0.065,
+unit edge weights, and strictly positive traversal times:
+
+Case                    Capacity   Transport cost   Max boundary L1 error
+Line, uniform           0.0105     115.444034729      9.99959e-9
+Line, time-varying       0.0105     256.191568988      1.71654e-12
+Shared, uniform         0.009       58.716054059      9.99980e-9
+Shared, time-varying     0.009       70.685482686      9.98688e-9
+
+Each case has total capacity excess at most 1e-8. Adjacent edge plans
+conserve mass and agree with the reported node marginals to below 1e-9.
+All noncausal edge entries are exactly zero. Complete-cycle dual histories
+were checked for nondecrease within floating-point tolerance.
+
+The line time-varying result uses a safeguarded dual Newton warm start
+before the final exact cyclic solve. Its initialization, final residuals,
+and cost are documented in line_diagnostics.txt. Earlier epsilon phases
+are initialization only. The final target epsilon is always 0.065.
+
+All 10 MATLAB files returned zero MATLAB Code Analyzer notices. PNG and
+vector EPS exports were tested; the final comparison figures and capacity
+profiles were visually inspected. No manuscript or Desktop original was
+modified, and nothing was uploaded to GitHub.
+
+The detailed diagnostics accompany each comparison. Timings are reference
+validation timings, some measured during concurrent tests; they are not
+controlled performance benchmarks. Objective-minus-dual quantities are
+not certified gaps because feasibility is numerical, to the stated tolerance.

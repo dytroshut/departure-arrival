@@ -1,0 +1,38 @@
+Example 2: shared
+MATLAB: 25.2.0.3042426 (R2025b) Update 1
+Grid points: 200; final epsilon: 0.065; edge weight: 1
+Common mean cell capacity: 0.009
+Deleted impossible departure/arrival mass: 2.77118084018e-13 / 1.80584949143e-16
+
+Uniform
+Epsilon initialization schedule: [1.04 0.26 0.065]
+Cycles per phase: [1680 4810 34540]; final cycles: 34540
+Total solve seconds: 568.806
+Departure L1 error: 9.99979959687e-09
+Arrival L1 error: 9.99974582079e-09
+Total capacity excess: 7.4706510856e-09
+Complementarity residual: 5.74466414021e-08
+Edge conservation error: 1.6805354355e-14
+Fresh marginal cross-check: 5.86041498169e-14
+Transport cost: 58.7160540588
+Regularized objective: 57.8426705573
+Dual: 57.8426697544
+Objective minus dual (approximately feasible plan): 8.02914854603e-07
+Path masses: [0.333333336667 0.333333336667 0.333333336667]
+
+Time-varying
+Epsilon initialization schedule: [1.04 0.26 0.065]
+Cycles per phase: [3190 8500 55540]; final cycles: 55540
+Total solve seconds: 906.302
+Departure L1 error: 9.98687978933e-09
+Arrival L1 error: 9.98381470771e-09
+Total capacity excess: 5.88591675399e-15
+Complementarity residual: 6.07693779804e-08
+Edge conservation error: 4.30759882507e-14
+Fresh marginal cross-check: 9.68631808189e-14
+Transport cost: 70.6854826855
+Regularized objective: 69.8484011451
+Dual: 69.8484024466
+Objective minus dual (approximately feasible plan): -1.30154657541e-06
+Path masses: [0.380327881067 0.397693047052 0.221979061897]
+
