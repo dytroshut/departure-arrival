@@ -1,0 +1,23 @@
+REPOSITORY ORGANIZATION VALIDATION -- 2026-10-08
+
+Source: dytroshut/departure-arrival, commit 6a35b0b (full ID in repository_guide.md).
+
+PASS: all 14 original non-README files preserved byte-for-byte at their new locations.
+PASS: existing Example 1 and Example 3 numerical entry scripts unchanged.
+PASS: six archived MATLAB scripts unchanged.
+PASS: all seven corrected Example 2 helpers retain the same numerical logic.
+      The only helper change is the default output path in example2_compare.
+PASS: checked Example 2 MAT files, diagnostics, validation record, and plots unchanged.
+PASS: local Markdown links and image targets resolve in the new tree.
+PASS: all six Example 2 regression checks rerun after helper/test relocation.
+PASS: MATLAB Code Analyzer returned zero notices for all 10 current Example 2/test files.
+
+Validation runtime: MATLAB R2025b, installed at /Applications/MATLAB_R2025b.app.
+The regression checks used the new tests/ and helpers/ locations.
+The full-size Example 2 experiments were not rerun merely for path changes;
+their previously checked reference outputs and records are included.
+Example 1 CVX solves and Example 3 benchmarks were not rerun for this reorganization.
+
+The existing Example 1 script remains coupled-only and has a pre-existing
+cost-tensor axis-ordering concern, recorded in its README. This is separate
+from the tested Example 2 correction.
